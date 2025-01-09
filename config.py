@@ -16,7 +16,7 @@ BOT_TOKEN = getenv("BOT_TOKEN", 7202606996:AAFVrm8pn5vK0IDngos-etIo38hmhDnMPVw)
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Branded:Brandedking82@branded.kauagbt.mongodb.net/?retryWrites=true&w=majority")
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", 𝗦ʜᴀᴅᴏᴡ ♡ Mɪᴋᴏ)
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", 𝗦ʜᴀᴅᴏᴡ 💕 Mɪᴋᴏ)
 PRIVATE_BOT_MODE = getenv("PRIVATE_BOT_MODE", None)
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 900))
