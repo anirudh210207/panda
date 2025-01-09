@@ -16,7 +16,7 @@ BOT_TOKEN = getenv("BOT_TOKEN", 7202606996:AAFVrm8pn5vK0IDngos-etIo38hmhDnMPVw)
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Branded:Brandedking82@branded.kauagbt.mongodb.net/?retryWrites=true&w=majority")
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", 𝗦ʜᴀᴅᴏᴡ 💕 Mɪᴋᴏ)
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", 𝗦ʜᴀᴅᴏᴡ  Mɪᴋᴏ)
 PRIVATE_BOT_MODE = getenv("PRIVATE_BOT_MODE", None)
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 900))
@@ -53,7 +53,7 @@ AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 AUTO_GCAST = os.getenv("AUTO_GCAST")
 
 # Auto Broadcast Message That You Want Use In Auto Broadcast In All Groups.
-AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "ʏᴏᴏ {mention} ϟ, 💕
+AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "ʏᴏᴏ {mention} ϟ, 
 
 ᴛʜɪs ɪs 𝗦ʜᴀᴅᴏᴡ ♡ Mɪᴋᴏ , ᴇʟᴇᴠᴀᴛᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏ ᴄʜᴀᴛ ᴡɪᴛʜ ᴛʜɪs ᴄᴜᴛᴛɪɴɢ-ᴇᴅɢᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ.
 
