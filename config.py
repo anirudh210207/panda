@@ -8,22 +8,22 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("API_ID", None))
-API_HASH = getenv("API_HASH", None)
+API_ID = int(getenv("API_ID", 27316382))
+API_HASH = getenv("API_HASH", a267e971b12a958177464646a7829f15)
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", None)
+BOT_TOKEN = getenv("BOT_TOKEN", 7202606996:AAFVrm8pn5vK0IDngos-etIo38hmhDnMPVw)
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Branded:Brandedking82@branded.kauagbt.mongodb.net/?retryWrites=true&w=majority")
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", None)
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", 𝗦ʜᴀᴅᴏᴡ ♡ Mɪᴋᴏ)
 PRIVATE_BOT_MODE = getenv("PRIVATE_BOT_MODE", None)
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 900))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", None))
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002198719573"))
+LOGGER_ID = int(getenv("LOGGER_ID", 8116165837))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002485728952"))
 
 # Get this value from @BRANDRD_ROBOT on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID", "7006715434"))
@@ -43,8 +43,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/kittyxupdates")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+fPsCUlG964E5MzY1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/we_the_shadows")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+NP_dopYLKWo0YTJl")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -53,7 +53,11 @@ AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 AUTO_GCAST = os.getenv("AUTO_GCAST")
 
 # Auto Broadcast Message That You Want Use In Auto Broadcast In All Groups.
-AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
+AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "ʏᴏᴏ {mention} ϟ, 💕
+
+ᴛʜɪs ɪs 𝗦ʜᴀᴅᴏᴡ ♡ Mɪᴋᴏ , ᴇʟᴇᴠᴀᴛᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏ ᴄʜᴀᴛ ᴡɪᴛʜ ᴛʜɪs ᴄᴜᴛᴛɪɴɢ-ᴇᴅɢᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ.
+
+sᴛʀᴇᴀᴍ ʜɪɢʜ-ǫᴜᴀʟɪᴛʏ ᴍᴜsɪᴄ ᴅᴜʀɪɴɢ ʏᴏᴜʀ ᴄʜᴀᴛs ᴀɴᴅ sʜᴀʀᴇ ʏᴏᴜʀ ғᴀᴠᴏʀɪᴛᴇ sᴏɴɢs ᴛᴏ ᴄʀᴇᴀᴛᴇ ᴀ ʟɪᴠᴇʟʏ ᴀᴛᴍᴏsᴘʜᴇʀᴇ!")
 
 # Get this credentials from https://developer.spotify.com/dashboard
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "bcfe26b0ebc3428882a0b5fb3e872473")
